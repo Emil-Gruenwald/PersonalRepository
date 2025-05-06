@@ -2,6 +2,7 @@
 
 ## Certifications
 Game Development: [Link](https://github.com/Emil-Gruenwald/PersonalRepository/blob/main/images/Emil%20Gruenwald_Game%20Development%20Fundamentals_04302025.pdf)
+
 ![Certificate](https://github.com/Emil-Gruenwald/PersonalRepository/blob/main/images/CertificateScreenshot.png?raw=true)
 
 ## Woodsmen
